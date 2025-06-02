@@ -1,0 +1,15 @@
+
+state = {
+    id = 1435
+    name = "STATE_1435"
+    manpower = 50000
+    state_category = town
+    
+    history = {
+        owner = BOS
+    }
+    
+    provinces = {
+        6614 9586
+    }
+}
