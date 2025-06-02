@@ -1,15 +1,18 @@
 
 state = {
-    id = 1435
-    name = "STATE_1435"
+    id = 1436
+    name = "STATE_1436"
     manpower = 50000
     state_category = town
+			victory_points = {
+			6799 3 
+		}
     
     history = {
         owner = BOS
     }
     
     provinces = {
-        6614 9586 6619
+        6799
     }
 }

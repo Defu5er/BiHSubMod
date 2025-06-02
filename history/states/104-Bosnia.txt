@@ -9,12 +9,6 @@ state={
 	history={
 		owner = BOS
 		add_core_of = BOS
-		victory_points = {
-			11899 10 
-		}
-		victory_points = {
-			6799 3 
-		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -25,7 +19,7 @@ state={
 	}
 
 	provinces={
-		3985 6799 9922 11872 11899 
+		3985 9922 11872 
 	}
 	manpower=2071250
 	buildings_max_level_factor=1.000

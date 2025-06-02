@@ -1,15 +1,15 @@
 
 state = {
-    id = 1435
-    name = "STATE_1435"
+    id = 1437
+    name = "STATE_1437"
     manpower = 50000
-    state_category = town
+    state_category = city
     
     history = {
         owner = BOS
     }
     
     provinces = {
-        6614 9586 6619
+        11899
     }
 }
